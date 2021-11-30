@@ -1,4 +1,4 @@
-#¿Qué es nginx?
+# ¿Qué es nginx?
 Como Apache, nginx es un software modular. Esto significa que las diferentes características son presentadas en forma de módulos y, como administrador, pueden ser activadas o desactivadas. Como consecuencia, el usuario goza de las siguientes características:
 
 1. Application Acceleration (acelerador de aplicaciones) agiliza la entrega de contenidos.
