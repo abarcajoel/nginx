@@ -1,4 +1,5 @@
 # Nginx vs Apache
+![img]()
 Nginx y Apache son servidores web populares usados para enviar páginas web al navegador del usuario. En nuestro caso, desde un sitio de WordPress con un host. Datos rápidos:
 
 1. Apache fue lanzado primero en 1995, luego llegó Nginx en el 2004.
