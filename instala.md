@@ -13,6 +13,6 @@
 ## Configuracón 
 nginx.conf --> para la configuración del servicio así como para asignar los eventos y el usuario por  defecto.
 ## Configuramo la pagina principal
-/var/www/html/index_nginx.html --> Bienvenido a mi servidor KillerZo
+/var/www/html/index_nginx.html --> Bienvenido a mi servidor nginx KillerZo
 
 ![img](https://github.com/abarcajoel/nginx/blob/main/img/en_navegador.PNG)
