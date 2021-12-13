@@ -4,7 +4,8 @@
   # reiniciar el servicio
   1.  sudo service nginx reload --> systemctl restart nginx
   2.  sudo service nginx restart --> systemctl status nginx
-
+# Versión de nginx
+![img](https://github.com/abarcajoel/nginx/blob/main/img/version.PNG)
 # Importante
 ## La sintaxis del archivo de configuración tiene las siguientes características:
 
