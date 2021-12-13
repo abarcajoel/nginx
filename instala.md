@@ -1,3 +1,4 @@
+# ¡Realizar como superusuario!
 # en ubuntu con sudo apt y en debian lo hacemos con apt
   1. sudo apt update
   2. sudo apt install nginx
@@ -5,6 +6,7 @@
   1.  sudo service nginx reload --> systemctl restart nginx
   2.  sudo service nginx restart --> systemctl status nginx
 # Versión de nginx
+nginx -V
 ![img](https://github.com/abarcajoel/nginx/blob/main/img/version.PNG)
 # Importante
 ## La sintaxis del archivo de configuración tiene las siguientes características:
