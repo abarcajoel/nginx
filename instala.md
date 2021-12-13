@@ -15,7 +15,7 @@ nginx -V
 ## Archivos de configuración de nginx
 /etc/nginx/ --> se crea por defecto en la instalación de nginx
 
-![img]()
+![img](https://github.com/abarcajoel/nginx/blob/main/img/archivos_nginx.PNG)
 ## Configuracón 
 nginx.conf --> para la configuración del servicio así como para asignar los eventos y el usuario por  defecto.
 ![img](https://github.com/abarcajoel/nginx/blob/main/img/nginx_conf.PNG)
