@@ -4,6 +4,9 @@
 ![img](https://github.com/abarcajoel/nginx/blob/main/hosts.png)
 
 2. /etc/nginx/ngix.conf --> debemos declarar las ip`s de nuestros servidores o nombres de dominios.
+La red debe estar en el mismo dominio
+.113 --> ip de servidor1
+.114 --> ip de servidor2
 ![img](https://github.com/abarcajoel/nginx/blob/main/configuracion_http_nginx.png)
 
 3. Comprobamos configuración
