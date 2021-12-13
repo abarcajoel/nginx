@@ -12,6 +12,7 @@
 /etc/nginx/ --> se crea por defecto en la instalación de nginx
 ## Configuracón 
 nginx.conf --> para la configuración del servicio así como para asignar los eventos y el usuario por  defecto.
+![img](https://github.com/abarcajoel/nginx/blob/main/img/nginx_conf.PNG)
 ## Configuramo la pagina principal
 /var/www/html/index_nginx.html --> Bienvenido a mi servidor nginx KillerZo
 
