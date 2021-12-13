@@ -8,14 +8,14 @@
 
 3. Comprobamos configuración
 nginx -t 
-![img]()
+Debe devolver ok
 
 4. Reiniciamos el servicio nginx 
 systemctl restart nginx
-![img]()
+
 
 4. Comprobamos que al acceder a nuestro dominio www.joel215.org debe devolver la primera pagina de nuestro servidor1.
 ![img](https://github.com/abarcajoel/nginx/blob/main/primera_pagina_nginx.png)
 
 5. Recargamos F5 y comprobamos que nos devuelve la pagina del servidor2.
-![img]()
+![img](https://github.com/abarcajoel/nginx/blob/main/segunda_pagina_nginx.png)
