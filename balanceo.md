@@ -1,7 +1,7 @@
 # Crearemos un VH para los balanceos con nginx
 ## Configuramos los ficheros una ves instalado nginx.
 1. /etc/hosts --> aquí deberemos insertar el nombre de nuestro dominio y nuestra ip.
-![img]()
+![img](https://github.com/abarcajoel/nginx/blob/main/hosts.png)
 
 2. /etc/nginx/ngix.conf --> debemos declarar las ip`s de nuestros servidores o nombres de dominios.
 ![img]()
