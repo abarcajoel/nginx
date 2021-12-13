@@ -22,4 +22,4 @@ nginx.conf --> para la configuración del servicio así como para asignar los ev
 ## Configuramo la pagina principal
 /var/www/html/index_nginx.html --> Bienvenido a mi servidor nginx KillerZo
 
-![img](https://github.com/abarcajoel/nginx/blob/main/img/en_navegador.PNG)
+![img](https://github.com/abarcajoel/nginx/blob/main/img/defecto.png)
