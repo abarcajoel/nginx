@@ -4,7 +4,7 @@
 ![img](https://github.com/abarcajoel/nginx/blob/main/hosts.png)
 
 2. /etc/nginx/ngix.conf --> debemos declarar las ip`s de nuestros servidores o nombres de dominios.
-![img]()
+![img](https://github.com/abarcajoel/nginx/blob/main/configuracion_http_nginx.png)
 
 3. Comprobamos configuración
 nginx -t 
